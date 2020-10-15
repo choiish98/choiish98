@@ -1,10 +1,10 @@
-<h1>🔭 I'm currently working on</h1>
+<h3>🔭 I'm currently working on</h3>
 <br>
 <ul>
   <li>경상대학교 컴퓨터과학과 학부생</li>
 </ul>
 
-<h1>🌱 I'm currently learning</h1>
+<h3>🌱 I'm currently learning</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
