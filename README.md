@@ -1,14 +1,17 @@
-### Hi there 👋
+<h1>🔭 I'm currently working on</h1>
+<br>
+<ul>
+  <li>경상대학교 컴퓨터과학과 학부생</li>
+</ul>
 
-🔭 I'm currently working on
-경상대학교 컴퓨터과학과 학부생
-
-🌱 I'm currently learning
-HTML
-CSS
-JS
-React
-NodeJs
+<h1>🌱 I'm currently learning</h1>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>React</li>
+  <li>NodeJs</li>
+</ul>
 
 <!--
 **choiish98/choiish98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
