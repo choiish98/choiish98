@@ -1,17 +1,16 @@
-<h3>🔭 I'm currently working on</h3>
+<h3>🔭 Languages </h3>
 <hr style="border: solid 1px;">
 <ul>
-  <li>경상대학교 컴퓨터과학과 학부생</li>
+  <li>Java for Android</li>
+  <li>Html&Css</li>
+  <li>Javascript for Web frontend</li>
 </ul>
 
-<h3>🌱 I'm currently learning</h3>
+<h3>🌱 Learning </h3>
 <hr style="border: solid 1px;">
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-  <li>React</li>
-  <li>NodeJs</li>
+  <li>Data Structure & Algorithm</li>
+  <li>Vanila Javascaript</li>
 </ul>
 
 <!--
