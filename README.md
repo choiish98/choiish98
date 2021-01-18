@@ -11,6 +11,8 @@
 <ul>
   <li>Data Structure & Algorithm</li>
   <li>Vanila Javascaript</li>
+  <li>Node JS with MVC patterns</li>
+  <li>Coding Test</li>
 </ul>
 
 <!--
