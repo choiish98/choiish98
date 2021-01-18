@@ -3,7 +3,7 @@
 <ul>
   <li>Java for Android</li>
   <li>Html&Css</li>
-  <li>Javascript for Web frontend</li>
+  <li>Javascript for Web</li>
 </ul>
 
 <h3>🌱 Learning </h3>
