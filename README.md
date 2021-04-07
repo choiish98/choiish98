@@ -1,3 +1,7 @@
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiish98&show_icons=true&theme=radical)](https://github.com/choiish98/github-readme-stats)
 
 <hr>
