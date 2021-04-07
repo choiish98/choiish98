@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?choiish98=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 <h3>🔭 Languages </h3>
 <hr style="border: solid 1px;">
 <ul>
