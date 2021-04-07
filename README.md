@@ -2,7 +2,8 @@
 
 <hr>
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=one9119)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={})](https://solved.ac/{one9119})
 
 
 <h3>🔭 Languages </h3>
