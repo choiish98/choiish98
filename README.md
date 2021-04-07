@@ -2,6 +2,9 @@
 
 <hr>
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=one9119)
+
+
 <h3>🔭 Languages </h3>
 <hr style="border: solid 1px;">
 <ul>
@@ -33,7 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=one9119)
