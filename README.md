@@ -3,7 +3,7 @@
 <hr>
 
 [![Solved.ac
-one9119](http://mazassumnida.wtf/api/generate_badge?boj={})](https://solved.ac/{one9119})
+one9119](http://mazassumnida.wtf/api/generate_badge?boj={one9119})](https://solved.ac/{one9119})
 
 
 <h3>🔭 Languages </h3>
