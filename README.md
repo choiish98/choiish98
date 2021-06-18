@@ -8,9 +8,9 @@
 <h3>🔭 Languages </h3>
 <hr style="border: solid 1px;">
 <ul>
-  <li>Java for Android</li>
-  <li>Html&Css</li>
-  <li>Javascript for Web</li>
+  <li>Java</li>
+  <li>HTML&CSS</li>
+  <li>Javascript</li>
 </ul>
 
 <h3>🌱 Learning </h3>
@@ -18,5 +18,6 @@
 <ul>
   <li>Data Structure & Algorithm</li>
   <li>Vanila Javascaript</li>
+  <li>React JS</li>
   <li>Node JS with MVC patterns</li>
 </ul>
