@@ -11,15 +11,15 @@
 <hr style="border: solid 1px;">
 <ul>
   <li>Java</li>
-  <li>HTML&CSS</li>
+  <li>HTML5&CSS3(SCSS)</li>
   <li>Javascript</li>
+  <li>Typescript</li>
 </ul>
 
 <h3>🌱 Learning </h3>
 <hr style="border: solid 1px;">
 <ul>
   <li>Data Structure & Algorithm</li>
-  <li>Vanila Javascaript</li>
   <li>React JS</li>
-  <li>Node JS with MVC patterns</li>
+  <li>Node JS</li>
 </ul>
