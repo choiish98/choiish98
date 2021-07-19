@@ -12,14 +12,18 @@
 <ul>
   <li>Java</li>
   <li>HTML5&CSS3(SCSS)</li>
-  <li>Javascript</li>
+  <li>Javascript(ES6)</li>
   <li>Typescript</li>
 </ul>
 
 <h3>🌱 Learning </h3>
 <hr style="border: solid 1px;">
 <ul>
-  <li>Data Structure & Algorithm</li>
+  <li>CS</li>
+  <li>Algorithm</li>
   <li>React JS</li>
   <li>Node JS</li>
+  <li>Redux</li>
+  <li>Hooks</li>
+  <li>Git</li>
 </ul>
