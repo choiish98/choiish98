@@ -22,8 +22,6 @@
   <li>CS</li>
   <li>Algorithm</li>
   <li>React JS</li>
-  <li>Node JS</li>
-  <li>Redux</li>
-  <li>Hooks</li>
+  <li>React Native</li>
   <li>Git</li>
 </ul>
