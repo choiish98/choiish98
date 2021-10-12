@@ -8,9 +8,9 @@
 
 
 <h3>🔭 SKILLS</h3>
-
-<h4>🔭 Front-end</h4>
 <hr style="border: solid 1px;">
+
+<h4> Front-end</h4>
 <ul>
   <li>HTML5&CSS3(SCSS)</li>
   <li>Javascript(ES6)</li>
@@ -21,8 +21,7 @@
   <li>Hooks</li>
 </ul>
 
-<h4>🌱 Back-end </h4>
-<hr style="border: solid 1px;">
+<h4> Back-end </h4>
 <ul>
   <li>Node JS</li>
   <li>Mongo DB</li>
@@ -30,8 +29,7 @@
   <li>Babel</li>
 </ul>
 
-<h4>🌱 Version Control </h4>
-<hr style="border: solid 1px;">
+<h4> Version Control </h4>
 <ul>
   <li>Git</li>
   <li>Github</li>
