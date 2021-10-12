@@ -7,21 +7,32 @@
 </a>
 
 
-<h3>🔭 Languages </h3>
+<h3>🔭 SKILLS</h3>
+
+<h4>🔭 Front-end</h4>
 <hr style="border: solid 1px;">
 <ul>
-  <li>Java</li>
   <li>HTML5&CSS3(SCSS)</li>
   <li>Javascript(ES6)</li>
   <li>Typescript</li>
-</ul>
-
-<h3>🌱 Learning </h3>
-<hr style="border: solid 1px;">
-<ul>
-  <li>CS</li>
-  <li>Algorithm</li>
   <li>React JS</li>
   <li>React Native</li>
+  <li>Redux</li>
+  <li>Hooks</li>
+</ul>
+
+<h4>🌱 Back-end </h4>
+<hr style="border: solid 1px;">
+<ul>
+  <li>Node JS</li>
+  <li>Mongo DB</li>
+  <li>Webpack</li>
+  <li>Babel</li>
+</ul>
+
+<h4>🌱 Version Control </h4>
+<hr style="border: solid 1px;">
+<ul>
   <li>Git</li>
+  <li>Github</li>
 </ul>
