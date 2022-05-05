@@ -6,7 +6,7 @@
 - Blog: https://velog.io/@choiish98
 
 ## carrer
-- Gyeonsang National University
+- GyeonSang National University - Computer Science
 - Woowahan tech learning - 3rd
 
 <br>
