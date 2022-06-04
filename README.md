@@ -6,8 +6,8 @@
 - Blog: https://velog.io/@choiish98
 
 ## carrer
-- GyeonSang National University - Computer Science
-- Woowahan tech learning - 3rd
+- M. S. Student of Electrical & Computer Engineering, UNIST, South Korea
+- Bachelor of Science, Computer Science, Gyeongsang National University, South Korea
 
 <br>
 
