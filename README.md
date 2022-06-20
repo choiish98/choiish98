@@ -5,7 +5,8 @@ I am in N2SL(Next-generation Networks and Systems Laboratory)
 - Name: SeungHyeok Choi
 - Email: dnjsqls9119@gmail.com
 - Github: https://github.com/choiish98
-- Blog: https://choiish98.github.io/paper-review/
+- CS Blog: https://velog.io/@choiish98
+- Paper Blog: https://choiish98.github.io/paper-review/
 - Location: UIST 106-502 (N2SL Lab), South Korea
 
 ## Education
@@ -13,7 +14,10 @@ I am in N2SL(Next-generation Networks and Systems Laboratory)
 - Bachelor of Science, Computer Science, Gyeongsang National University, South Korea
 
 ## Research Interest
-- Smart NIC
+- SmartNIC
+- TCP Offload Engine
+- Fast-Swap
+- Next-generation Networks and System
 
 <br>
 
