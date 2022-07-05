@@ -14,8 +14,6 @@ I am in N2SL(Next-generation Networks and Systems Laboratory)
 
 ## Research Interest
 - SmartNIC
-- TCP Offload Engine
-- Fast-Swap
 - Next-generation Networks and System
 
 <br>
