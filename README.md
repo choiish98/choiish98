@@ -14,6 +14,7 @@ I am in N2SL(Next-generation Networks and Systems Laboratory)
 
 ## Research Interest
 - SmartNIC
+- RDMA
 - Next-generation Networks and System
 
 <br>
