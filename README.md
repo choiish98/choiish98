@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am in N2SL(Next-generation Networks and Systems Laboratory)
+I am in [N2SL(Next-generation Networks and Systems Laboratory)](https://ovinee.wixsite.com/n2sl)
 
 ## About Me
 - Name: SeungHyeok Choi
