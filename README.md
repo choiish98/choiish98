@@ -12,10 +12,6 @@ I am in [N2SL(Next-generation Networks and Systems Laboratory)](https://ovinee.w
 - B. S. Student, Computer Science, GNU, South Korea
 
 ## Research Interest
-- SmartNIC
-- RDMA
-- Scheduling
-- Caching
 - Next-generation Networks and System
 
 <br>
